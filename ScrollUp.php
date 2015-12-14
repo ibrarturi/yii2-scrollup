@@ -70,11 +70,7 @@ SCRIPT;
                 break;
             case 'image':
                 $view->registerCssFile($baseUrl . '/css/themes/image.css', ['position' => View::POS_HEAD]);
-
                 $this->options['scrollImg'] = true;
-                /*= [
-                	'scrollImg' =>  true
-                ];*/
                 break;
             case 'pill':
                 $view->registerCssFile($baseUrl . '/css/themes/pill.css', ['position' => View::POS_HEAD]);

@@ -2,7 +2,7 @@
     "name": "ibrarturi/yii2-scrollup",
     "description": "A wraper for jQuery plugin scrollup",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","scrollup"],
+    "keywords": ["yii2","extension","scrollup", "jQuery", "plugin"],
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,10 @@
             "email": "ibrarturi@gmail.com"
         }
     ],
+    "support": {
+        "issues": "https://github.com/ibrarturi/yii2-scrollup/issues",
+        "source": "https://github.com/ibrarturi/yii2-scrollup"
+    },
     "require": {
         "yiisoft/yii2": "*"
     },
