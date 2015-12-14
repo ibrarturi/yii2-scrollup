@@ -1,6 +1,6 @@
 Scroll Up
 =========
-Yii2 Extension which is a wraper for jQuery plugin scrollup
+Yii2 Extension which is a wrapper for jQuery plugin scrollup
 
 Installation
 ------------
