@@ -36,7 +36,7 @@ Once the extension is installed, simply use it in your code by  :
 
  ```php
 <?= \ibrarturi\scrollup\ScrollUp::widget([
-    'theme' => 'tab',   // pill, link, image, tab
+	'theme' => 'tab',   // pill, link, image, tab
 ]); ?>
 ```
 
